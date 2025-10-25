@@ -28,6 +28,10 @@ Using pip:
 pip install how-cli-assist
 ```
 
+## Demo
+
+![](record.mp4)
+
 ## Quick Start
 
 Open your terminal and try:
