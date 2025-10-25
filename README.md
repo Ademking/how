@@ -1,6 +1,10 @@
-# How CLI
+<p align="center">
+  <img src="./screenshot.png" alt="How-CLI" />
+</p>
+ <h1 align="center">How-CLI</h1>
+    <p align="center">A Terminal-Based Assistant for Generating Shell Commands</p>
 
-**How CLI** is a terminal-based assistant that generates precise shell commands for any task you ask. Powered by Google Gemini’s generative AI, it provides context-aware, executable shell commands tailored to your current environment.
+**How-CLI** is a terminal-based assistant that generates precise shell commands for any task you ask. Powered by Google Gemini’s generative AI, it provides context-aware, executable shell commands tailored to your current environment.
 
 ---
 
