@@ -22,15 +22,13 @@
 
 ## Installation
 
-Using pip:
-
 ```bash
 pip install how-cli-assist
 ```
 
 ## Demo
 
-![](record.mp4)
+https://github.com/user-attachments/assets/25638fe5-766e-4318-928a-c3a4b7eccab0
 
 ## Quick Start
 
