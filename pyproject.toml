@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "how-cli-assist"
+version = "1.0.1"
+description = "Terminal assistant generating accurate shell commands"
+authors = [{ name = "Adem Kouki" }]
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = [
+    "google-generativeai",
+    "pyperclip",
+    "psutil"
+]
+requires-python = ">=3.8"
+
+[project.scripts]
+how = "how.main:main"
