@@ -20,6 +20,18 @@
 
 ---
 
+### ⚠️ Disclaimer:
+
+```
+Yeah, I know... It’s a Gemini wrapper.
+I know it's not the next Warp AI terminal or some fancy LLM-based shell integration with auto-completion and context persistence...
+I know it's “yet another CLI tool” 
+and yes, I'm painfully aware that wrapping an API and printing stuff in the terminal isn't groundbreaking computer science...
+But here's the thing: I made How-CLI because it was fun and quick to build...
+It's not meant to change the world. It’s meant to make typing "how to do X in bash" a little more amusing..
+Think of it as a weekend hack.
+```
+
 ## Installation
 
 ```bash
